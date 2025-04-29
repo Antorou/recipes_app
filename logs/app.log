@@ -1,0 +1,197 @@
+[2025-04-29 12:38:55] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:38:56] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:38:56] ERROR: Connexion DB échouée
+[2025-04-29 12:39:26] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:39:26] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:39:26] ERROR: Connexion DB échouée
+[2025-04-29 12:39:41] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:39:41] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:39:41] ERROR: Connexion DB échouée
+[2025-04-29 12:53:31] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:53:31] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:53:31] ERROR: Connexion DB échouée
+[2025-04-29 12:56:11] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:56:11] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:56:11] ERROR: Connexion DB échouée
+[2025-04-29 12:57:54] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:57:54] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:57:54] ERROR: Connexion DB échouée
+[2025-04-29 12:59:32] INFO: Serveur démarré sur le port 3000
+[2025-04-29 12:59:32] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 12:59:32] ERROR: Connexion DB échouée
+[2025-04-29 13:00:53] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:00:53] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 13:00:53] ERROR: Connexion DB échouée
+[2025-04-29 13:03:55] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:03:55] ERROR: Erreur de connexion DB : Error: Access denied for user ''@'localhost' (using password: YES)
+[2025-04-29 13:03:55] ERROR: Connexion DB échouée
+[2025-04-29 13:05:25] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:05:25] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:05:59] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:05:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:05:59] ERROR: Erreur de connexion DB : Error: Table 'recipes.pokemon' doesn't exist
+[2025-04-29 13:05:59] ERROR: Connexion DB échouée
+[2025-04-29 13:06:24] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:06:24] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:06:24] ERROR: Erreur de connexion DB : Error: Table 'recipes.pokemon' doesn't exist
+[2025-04-29 13:06:24] ERROR: Connexion DB échouée
+[2025-04-29 13:06:30] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:06:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:06:30] ERROR: Erreur de connexion DB : Error: Table 'recipes.pokemon' doesn't exist
+[2025-04-29 13:06:30] ERROR: Connexion DB échouée
+[2025-04-29 13:06:52] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:06:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:06:52] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:08:46] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:08:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:08:46] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:08:59] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:08:59] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:08:59] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:09:15] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:09:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:09:15] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:09:29] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:09:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:09:29] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:09:36] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:09:36] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:09:36] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:09:40] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:09:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:09:40] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:10:35] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:10:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:10:35] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:10:50] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:10:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:10:50] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:10:57] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:10:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:10:57] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:11:31] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:11:31] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:11:31] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:11:43] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:11:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:11:43] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:12:05] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:12:05] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:12:05] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:12:10] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:12:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:12:10] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:14:22] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:14:22] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:14:22] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:14:30] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:14:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:14:30] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:14:39] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:14:39] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:14:39] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:14:52] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:14:52] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:14:52] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:14:56] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:14:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:14:57] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:15:09] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:15:09] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:15:09] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:15:17] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:15:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:15:17] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:16:13] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:16:13] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:16:13] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:16:17] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:16:17] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:16:17] ERROR: Erreur dans findAllRecipes: Table 'recipes.recipe' doesn't exist
+[2025-04-29 13:16:17] ERROR: Erreur lors de la récupération des recettes : Table 'recipes.recipe' doesn't exist
+[2025-04-29 13:19:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:19:53] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:19:53] ERROR: Erreur dans findAllRecipes: Table 'recipes.recipe' doesn't exist
+[2025-04-29 13:19:53] ERROR: Erreur lors de la récupération des recettes : Table 'recipes.recipe' doesn't exist
+[2025-04-29 13:20:17] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:20:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:20:18] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:20:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:20:18] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:23:01] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:23:01] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:23:01] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:23:32] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:23:32] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:23:32] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:23:43] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:23:43] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:23:43] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:24:04] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:24:04] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:24:04] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:24:18] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:24:18] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:24:18] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:24:26] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:24:26] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:24:26] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:37:54] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:37:55] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:37:55] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:38:29] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:38:29] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:38:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:38:35] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:38:35] INFO: Recipe 1 found
+[2025-04-29 13:41:40] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:41:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:41:40] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:43:38] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:43:38] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:43:38] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:44:30] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:44:30] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:44:30] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:45:40] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:45:40] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:45:40] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:51:10] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:51:10] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:51:10] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:51:15] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:51:15] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:51:15] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:51:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:51:35] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:51:35] INFO: Recette créée : Spaghetti Bolognese
+[2025-04-29 13:52:46] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:52:46] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:52:46] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:52:57] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:52:57] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:52:57] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:53:50] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:53:50] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:53:50] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:54:24] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:54:24] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:54:24] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:54:35] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:54:35] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:54:35] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:59:11] INFO: Serveur démarré sur le port 3000
+[2025-04-29 13:59:11] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:59:11] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:59:53] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:59:53] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:59:53] INFO: Recette mise à jour : ID 6
+[2025-04-29 13:59:58] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 13:59:58] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 13:59:58] INFO: Recipe 6 found
+[2025-04-29 14:00:02] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 14:00:02] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
+[2025-04-29 14:00:02] INFO: Recette supprimée : ID 6
+[2025-04-29 14:03:24] INFO: Serveur démarré sur le port 3000
+[2025-04-29 14:03:24] INFO: Connexion réussie à la base de données MySQL
+[2025-04-29 14:03:24] INFO: Résultats de la requête : [{"title":"Spaghetti Carbonara"}]
