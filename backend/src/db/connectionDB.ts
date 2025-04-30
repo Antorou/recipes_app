@@ -10,7 +10,7 @@ export async function connectionDB() {
   
     const [results] = await connection.execute(
         "SELECT title FROM recipes WHERE id < ?",
-        [2]
+        [5]
       );
 
     logger.info(`Résultats de la requête : ${JSON.stringify(results)}`);
